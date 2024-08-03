@@ -83,6 +83,12 @@ nav {
     border-radius: 20px;
 }
 
+aside {
+    width: 40vh;
+    height: 85vh;
+    background-color: blue;
+}
+
 
 .img-Home {
     position: absolute;
@@ -95,4 +101,31 @@ nav {
     font-weight: 600;
     line-height: 5vh;
     margin-left: 9.5vh;
+}
+
+.Explorar-img {
+    position: absolute;
+    padding: 25px;
+    top: 14vh;
+}
+
+.Explorar {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 6vh;
+    margin-left: 9.5vh;
+}
+
+.Inscricoes-img {
+    position: absolute;
+    padding: 25px;
+    top: 20vh;
+}
+
+.Inscricoes {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 6vh;
+    margin-left: 9.5vh;
+
 }
