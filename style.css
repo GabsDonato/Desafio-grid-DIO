@@ -219,3 +219,10 @@ aside {
     line-height: 5vh;
     margin-left: 9.5vh;
 }
+
+.grid-container {
+    background-color: #f1f1f1;
+    display: grid;
+    grid-columns: 20px;
+    gap: 50px 100px;
+}
