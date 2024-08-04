@@ -84,9 +84,9 @@ nav {
 }
 
 aside {
-    width: 40vh;
+    width: 30vh;
     height: 85vh;
-    background-color: blue;
+    background-color: white;
 }
 
 
@@ -149,6 +149,71 @@ aside {
 }
 
 .Like {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 5vh;
+    margin-left: 9.5vh;
+}
+
+.Relogio-img {
+    position: absolute;
+    padding: 25px;
+    top: 35vh;
+}
+
+.Relogio {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 5vh;
+    margin-left: 9.5vh;
+}
+
+.Download-img {
+    position: absolute;
+    padding: 25px;
+    top: 40vh;
+}
+
+.Download {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 5vh;
+    margin-left: 9.5vh;
+}
+
+.Filmes-img {
+    position: absolute;
+    padding: 25px;
+    top: 45vh;
+}
+
+.Filmes {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 5vh;
+    margin-left: 9.5vh;
+}
+
+.Aprender-img {
+    position: absolute;
+    padding: 25px;
+    top: 50vh;
+}
+
+.Aprender {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 5vh;
+    margin-left: 9.5vh;
+}
+
+.Premio-img {
+    position: absolute;
+    padding: 25px;
+    top: 55vh;
+}
+
+.Premio {
     font-size: 14px;
     font-weight: 400;
     line-height: 5vh;
